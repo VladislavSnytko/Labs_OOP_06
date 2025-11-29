@@ -1,0 +1,17 @@
+1
+1
+50
+50
+SavedKnight
+2
+npc_persistence.txt
+1
+2
+0
+0
+UnsavedDruid
+4
+3
+npc_persistence.txt
+4
+6
