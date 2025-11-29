@@ -81,7 +81,7 @@
    - **Друид против Друида:**
      
      ```bash
-     ./lab_06 < test_03_dvsd.txt > result_03.txt
+     ./lab_06 < test/test_03_dvsd.txt > result_03.txt
      ```
    
    - **Сохранение и загрузка:**
